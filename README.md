@@ -27,4 +27,4 @@ This will ensure you have all the pre-requisites for the notebook.
 
 You must create a projects/image directory before starting if it doesn't exist.  COLMAP will expect that structure
 Just follow the tutorial / walkthrough after that.
-(COLMAP Walkthrough)[https://www.youtube.com/watch?v=pvvnPib4lFA]
+[COLMAP Walkthrough](https://www.youtube.com/watch?v=pvvnPib4lFA)
